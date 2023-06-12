@@ -1,0 +1,50 @@
+<a class="dropdown-item" href="?page=1&amp;order=datebeg">По дате</a>
+<a class="dropdown-item" href="?page=1&amp;order=oplatafrom">По зарплате</a>
+<a class="dropdown-item" href="https://enbek.kz/ru/search/vac?">
+                                            За все время
+                                        </a>
+<a class="dropdown-item" href="https://enbek.kz/ru/search/vac?postedwithin=1">Последние 24 часа</a>
+<a class="dropdown-item" href="https://enbek.kz/ru/search/vac?postedwithin=2">Последние 3 дня</a>
+<a class="dropdown-item" href="https://enbek.kz/ru/search/vac?postedwithin=3">Последние 7 дней</a>
+<a class="dropdown-item" href="https://enbek.kz/ru/search/vac?postedwithin=4">Последние 14 дней</a>
+<a href="?page=1&amp;fl_mbt=fl_mbt&amp;kvotSirot=kvotSirot">Молодежи</a>
+<a href="?page=1&amp;kvotInv=kvotInv">Для лиц с инвалидностью</a>
+<a href="?page=1&amp;kvotOms=kvotOms">Освобожденным из МЛС</a>
+<a href="?page=1&amp;fl_relocate=fl_relocate">С предоставлением жилья</a>
+<a class="stretched" href="/ru/вакансия/грузчик~3101230" target="_blank" title="Грузчик">
+                    Грузчик
+                </a>
+<a class="stretched" href="/ru/вакансия/водитель-скорой-помощи-водитель-санитарной-машины~3101228" target="_blank" title="Водитель санитарной машины">
+                    Водитель санитарной машины
+                </a>
+<a class="stretched" href="/ru/вакансия/учитель-учитель-математики-алгебра-и-геометрия~3101229" target="_blank" title="Учитель математики (алгебра и геометрия)">
+                    Учитель математики (алгебра и геометрия)
+                </a>
+<a class="stretched" href="/ru/вакансия/уборщик-в-промышленных-помещениях~3101227" target="_blank" title="Уборщик в промышленных помещениях">
+                    Уборщик в промышленных помещениях
+                </a>
+<a class="stretched" href="/ru/вакансия/помощник-руководителя-группы-по-бурению-помощник-бурильщика-эксплуатационного-и-разведочного-бурения-скважин-на-нефть-и-газ~3101226" target="_blank" title="Помощник бурильщика эксплуатационного и разведочного бурения скважин на нефть и газ">
+                    Помощник бурильщика эксплуатационного и разведочного бурения скважин на нефть и газ
+                </a>
+<a class="stretched" href="/ru/вакансия/повар~3101219" target="_blank" title="Повар">
+                    Повар
+                </a>
+<a class="stretched" href="/ru/вакансия/кухонный-работник-в-столовую-кухонный-рабочий~3101224" target="_blank" title="Кухонный рабочий">
+                    Кухонный рабочий
+                </a>
+<a class="stretched" href="/ru/вакансия/официант~3101225" target="_blank" title="Официант">
+                    Официант
+                </a>
+<a class="stretched" href="/ru/вакансия/кухонный-рабочий~3101223" target="_blank" title="Кухонный рабочий">
+                    Кухонный рабочий
+                </a>
+<a class="stretched" href="/ru/вакансия/воспитатель~3101220" target="_blank" title="Воспитатель">
+                    Воспитатель
+                </a>
+<a data-page="0" href="javascript:;"><span>Предыдущая</span></a>
+<a data-page="1" href="/ru/search/vac?page=1">1</a>
+<a data-page="2" href="/ru/search/vac?page=2">2</a>
+<a data-page="3" href="/ru/search/vac?page=3">3</a>
+<a data-page="4" href="/ru/search/vac?page=4">4</a>
+<a data-page="6757" href="/ru/search/vac?page=6757">6757</a>
+<a data-page="2" href="/ru/search/vac?page=2"><span>Следующая</span></a>
